@@ -1,0 +1,5 @@
+<Simulation version="4.2.5">
+   <XMLScript Type="XMLScript">Simulation/FPP_3D_test.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/FPP_3D_test.py</PythonScript>
+   <Resource Type="Python">Simulation/FPP_3D_testSteppables.py</Resource>
+</Simulation>
